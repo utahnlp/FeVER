@@ -1,0 +1,11 @@
+is$:$0
+That$:$1
+chasing$:$2
+a$:$3
+dog$:$4
+who$:$5
+running$:$6
+boy$:$7
+girl$:$8
+man$:$9
+woman$:$10

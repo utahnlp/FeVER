@@ -1,0 +1,11 @@
+is <is> 0#1#i 0#2#is 0#3#is 0#-1#s 0#-2#is 0#-3#is shape@xx spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+That <That> 0#1#T 0#2#Th 0#3#Tha 0#-1#t 0#-2#at 0#-3#hat n-grams@Tha n-grams@hat n-grams@That shape@Xxxx spec@alphanumeric spec@alpha spec@printable spec@title default@null
+chasing <chasing> 0#1#c 0#2#ch 0#3#cha 0#-1#g 0#-2#ng 0#-3#ing n-grams@cha n-grams@has n-grams@asi n-grams@sin n-grams@ing n-grams@chas n-grams@hasi n-grams@asin n-grams@sing n-grams@chasi n-grams@hasin n-grams@asing quirk@DeverbalNouns:Abstract shape@xxx spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+a <a> 0#1#a 0#2#a 0#3#a 0#-1#a 0#-2#a 0#-3#a quirk@Conversion shape@x spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+dog <dog> 0#1#d 0#2#do 0#3#dog 0#-1#g 0#-2#og 0#-3#dog n-grams@dog shape@xxx spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+who <who> 0#1#w 0#2#wh 0#3#who 0#-1#o 0#-2#ho 0#-3#who n-grams@who shape@xxx spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+running <running> 0#1#r 0#2#ru 0#3#run 0#-1#g 0#-2#ng 0#-3#ing n-grams@run n-grams@unn n-grams@nni n-grams@nin n-grams@ing n-grams@runn n-grams@unni n-grams@nnin n-grams@ning n-grams@runni n-grams@unnin n-grams@nning quirk@DeverbalNouns:Abstract shape@xxx spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+boy <boy> 0#1#b 0#2#bo 0#3#boy 0#-1#y 0#-2#oy 0#-3#boy n-grams@boy gaz@Person.Hyponyms gaz@Person quirk@DenominalAdjectives:NativeOrigin shape@xxx spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+girl <girl> 0#1#g 0#2#gi 0#3#gir 0#-1#l 0#-2#rl 0#-3#irl n-grams@gir n-grams@irl n-grams@girl gaz@Person.JobsTitles gaz@Person.Hyponyms gaz@Person shape@xxx spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+man <man> 0#1#m 0#2#ma 0#3#man 0#-1#n 0#-2#an 0#-3#man n-grams@man gaz@Person.JobsTitles gaz@Person.Hyponyms gaz@Person quirk@Noun/adjective shape@xxx spec@alphanumeric spec@alpha spec@lower spec@printable default@null
+woman <woman> 0#1#w 0#2#wo 0#3#wom 0#-1#n 0#-2#an 0#-3#man n-grams@wom n-grams@oma n-grams@man n-grams@woma n-grams@oman n-grams@woman gaz@Person.JobsTitles gaz@Person.Hyponyms gaz@Person quirk@Noun/adjective shape@xxx spec@alphanumeric spec@alpha spec@lower spec@printable default@null

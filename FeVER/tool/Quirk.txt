@@ -1,0 +1,142 @@
+a-	| Negative
+an-	| Negative
+dis-	| Negative
+in-	| Negative
+non-	| Negative
+un-	| Negative
+
+de-	| Reversative 
+dis-	| Reversative 
+un-	| Reversative 
+
+mal-	| Pejorative
+mis- 	| Pejorative
+pseudo- | Pejorative
+
+arch-	| Degree
+co-	| Degree
+hyper-	| Degree
+mini-  	| Degree
+out-   	| Degree
+over-  	| Degree
+sub-   	| Degree
+super- 	| Degree
+sur-   	| Degree
+ultra- 	| Degree
+under- 	| Degree
+
+anti-	| Orientation
+contra- | Orientation
+counter-| Orientation
+pro-    | Orientation
+
+fore-	| Locative
+inter-  | Locative
+sub-    | Locative
+super-  | Locative
+trans-  | Locative
+
+ex-     | Time
+fore-	| Time
+post-	| Time
+pre-   	| Time
+re-    	| Time
+
+bi-	| Number
+di-	| Number
+poly-	| Number
+multi-	| Number
+semi-	| Number
+demi-	| Number
+tri-	| Number
+uni-	| Number
+mono-  	| Number
+
+auto-   | Miscellaneous
+extra-  | Miscellaneous
+neo-    | Miscellaneous
+paleo-  | Miscellaneous
+pan-    | Miscellaneous
+proto-  | Miscellaneous
+tele-   | Miscellaneous
+vice-   | Miscellaneous
+
+
+a-	| Conversion
+be-  	| Conversion
+en-	| Conversion
+em-	| Conversion
+
+
+-age	| DenominalNouns:Abstract
+-dom	| DenominalNouns:Abstract
+-ery	| DenominalNouns:Abstract
+-ry	| DenominalNouns:Abstract
+-ful	| DenominalNouns:Abstract
+-hodo	| DenominalNouns:Abstract
+-ing	| DenominalNouns:Abstract
+-ism	| DenominalNouns:Abstract
+-ocracy	| DenominalNouns:Abstract
+-ship 	| DenominalNouns:Abstract
+
+-eer	| DenominalNouns:Concrete
+-er   	| DenominalNouns:Concrete
+-ess  	| DenominalNouns:Concrete
+-ette	| DenominalNouns:Concrete
+-let  	| DenominalNouns:Concrete
+-ling 	| DenominalNouns:Concrete
+-ster 	| DenominalNouns:Concrete
+
+-ant	| DeverbalNouns:Concrete
+-ee	| DeverbalNouns:Concrete
+-er	| DeverbalNouns:Concrete
+-or 	| DeverbalNouns:Concrete
+
+-age	| DeverbalNouns:Abstract
+-al    	| DeverbalNouns:Abstract
+-ation	| DeverbalNouns:Abstract
+-ing   	| DeverbalNouns:Abstract
+-ment  	| DeverbalNouns:Abstract
+
+
+-ity	| De-adjectivalNouns
+-ness	| De-adjectivalNouns
+
+
+-ese	| Noun/adjective
+-ian  	| Noun/adjective
+-an	| Noun/adjective
+-ist    | Noun/adjective
+-ite    | Noun/adjective
+
+-ed	| DenominalAdjectives:NativeOrigin
+-ful  	| DenominalAdjectives:NativeOrigin
+-ish 	| DenominalAdjectives:NativeOrigin
+-less 	| DenominalAdjectives:NativeOrigin
+-like 	| DenominalAdjectives:NativeOrigin
+-ly 	| DenominalAdjectives:NativeOrigin
+-y    	| DenominalAdjectives:NativeOrigin
+
+
+-al	| DenominalAdjectives:ForeignOrigin
+-ial	| DenominalAdjectives:ForeignOrigin
+-ical	| DenominalAdjectives:ForeignOrigin
+-esque	| DenominalAdjectives:ForeignOrigin
+-ic	| DenominalAdjectives:ForeignOrigin
+-ous	| DenominalAdjectives:ForeignOrigin
+-ious	| DenominalAdjectives:ForeignOrigin
+
+-able	| DeverbalSuffixes
+-ive  	| DeverbalSuffixes
+
+-ly	| AdverbSuffixes
+-ward	| AdverbSuffixes
+-wards	| AdverbSuffixes
+-wise	| AdverbSuffixes
+
+-ate	| VerbSuffixes
+-en	| VerbSuffixes
+-ify	| VerbSuffixes
+-fy	| VerbSuffixes
+-ize	| VerbSuffixes
+-ise	| VerbSuffixes
